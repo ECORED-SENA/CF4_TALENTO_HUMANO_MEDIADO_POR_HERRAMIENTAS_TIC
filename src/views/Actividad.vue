@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Emparejamiento entre término y definición
-        p.mb-4 Identificar las definiciones de términos importantes dentro de los criterios técnicos para la validación de perfiles de cargo.
+        p.mb-4 Afianzar conceptos sobre la importancia y aplicación de la investigación, la estadística, las fuentes y las técnicas para la recolección de datos, además de los instrumentos y la aplicación de citas bibliográficas.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Arrastrar y soltar el término con la definición que corresponde.
+              p.fw-bold.mb-0 Arrastrar y soltar el término sobre la definición que corresponde.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
