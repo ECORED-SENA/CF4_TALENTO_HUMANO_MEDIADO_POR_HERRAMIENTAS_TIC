@@ -1,0 +1,550 @@
+.curso-main-container > .container
+  overflow-x: inherit
+.hy--100
+  height: 100%
+
+.accesibilidad
+  z-index: 999
+
+///// Utilidades texto
+.number
+  position: absolute
+  top: 50%
+  left: 0
+  transform: translate(-50%,-50%)
+  display: inline-block
+  background-color: #E7F65A
+  padding: 0.5rem 1rem
+  border-radius: 999px
+  span
+    font-weight: 700     
+
+.txt--bold
+  font-weight: 700 !important
+.txt--mint
+  color: #3CFFE9
+.txt--purpura
+  color: #7F4FC7
+  font-weight: 600
+
+.clr--purpura
+  color: #7F4FC7
+  
+.titulo-sexto.clr--orange
+  border-left-color: #FFA726
+.cstmH3--blue
+  display: inline-block !important
+  color: $color-primario
+  border-bottom: 3px solid $color-primario
+.H3--purpura_01
+  position: relative
+  display: inline-block
+  padding: 0.5rem  
+  color: white
+  left: 50%
+  transform: translateX(-50%)
+  background-color: #7F4FC7
+  border-radius: 5px  
+
+.hr--blank
+  width: 100%
+  height: 3px
+  margin: 2rem 0
+
+.pos--relative
+  position: relative
+
+.vr--dotLine  
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translate(-50%,-50%)
+  width: 2px
+  height: 80%
+  border-left: 2px dashed #B1AED8
+.hr--dotLine  
+  width: 100%
+  height: 2px
+  border-bottom: 2px dashed #B1AED8
+  
+///// Utilidades imagenes
+.img25
+  width: 25px
+.img35
+  width: 35px
+.img65
+  width: 65px
+.img75
+  width: 75px
+.img85
+  width: 85px
+.img100
+  width: 100px
+.img165
+  width: 165px
+.img200
+  width: 200px
+.img250
+  width: 250px
+.img280
+  width: 280px
+.img300
+  width: 300px
+.img325
+  max-width: 325px
+.img350
+  max-width: 350px
+.img380
+  max-width: 380px
+.img400
+  max-width: 400px
+.img450
+  max-width: 450px
+.img500
+  max-width: 500px
+.img650
+  max-width: 650px
+
+
+///// Cards
+.crd
+  position: relative
+  padding: 1.5rem
+.crd--brad
+    border-radius: 15px
+.crd--white
+  height: 100%
+  background-color: #ffffff
+  border-radius: 15px
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+.crd--cyan
+  background-color: #DDEDF8
+.crd--gris
+  background-color: #F6F6F6
+.crd--amarillo
+  background-color: #FFFAD8
+.crd--purpura
+  background-color: #EDE7F7
+.crd--gradient_01
+  height: 100%
+  background: linear-gradient(0deg, rgba(126,83,197,1) 0%, rgba(8,3,131,1) 50%)
+  
+.crd--slyder
+  background-color: #DDEDF8
+  background-image: url("../assets/curso/bg_slyder.svg")
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom left
+
+.crd--cta
+  background: linear-gradient(90deg, rgba(17,110,185,1) 0%, rgba(24,148,246,1) 100%)
+
+.crd--bottomBorad
+  border-bottom-left-radius: 15px
+  border-bottom-right-radius: 15px
+
+.avatarCrd
+  position: relative
+  padding: 1.2rem
+  border-radius: 15px
+  padding-right: 45px
+  margin-right: 15px
+  &--icon
+    position: absolute
+    right: -35px 
+    top: 50%
+    transform: translateY(-50%)
+    width: 70px
+    height: 70px
+    background-image: url("../assets/curso/icon.svg")
+    background-size: contain  
+
+.crd--cstm_01   
+  background-color: #7F4FC7
+  border-top-right-radius: 15px
+  border-bottom-left-radius: 15px
+  p
+    color: white
+    text-align: center
+    margin-bottom: 0
+
+.crd--hover
+  background-color: #F6F6F6
+  height: 100%
+  border-radius: 15px
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+  transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1)
+  h4
+    color: #7F4FC7 !important
+    text-align: center
+  p 
+    margin-bottom: 0 !important
+    text-align: center
+  &:hover
+    background-color: #7F4FC7
+    h4, p
+      color: white !important
+
+.crd--hover_02  
+  position: relative
+  height: 100%
+  border-radius: 15px
+  background: #f6f6f6
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)   
+  
+  z-index: 1
+  &::before
+    position: absolute
+    content: ''    
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background: linear-gradient(180deg, rgba(126,83,197,1) 0%, rgba(8,3,131,1) 100%)
+    z-index: -1
+    transition: opacity 1s cubic-bezier(0.16, 1, 0.3, 1)
+    opacity: 0
+    border-radius: 15px
+  h4    
+    text-align: center  
+  &:hover    
+    h4
+      color: #3CFFE9
+    p
+      color: white !important
+    &::before
+      opacity: 1
+
+//////
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: #7F4FC7
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #C5E5FE
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last
+  &::before 
+    background-color: #DDEDF8 !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+
+.cajon
+  padding: 1.5rem
+.cjn--purpura
+  background-color: #EDE7F7
+  &::before
+    background-color: #7F4FC7
+
+.tarjeta--slyder  
+  height: 100%
+  background-color: white
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+
+.horizontal-scroll
+  align-items: stretch !important
+
+///// negative margis
+.negM--left
+  position: relative
+  margin-left: -8rem
+  @media (max-width: 1000px)
+    margin-left: 0
+
+///// Float elements
+.dots--btmRight
+  position: absolute
+  bottom: 7%
+  right: 3%
+  width: 87px
+  height: 22px  
+  background-image: url("../assets/curso/dots_01.svg")
+  background-repeat: no-repeat
+  background-size: contain
+  @media (max-width: 1000px)
+    display: none
+
+.dots--btmLeft
+  position: absolute
+  bottom: 7%
+  left: 3%
+  width: 87px
+  height: 22px  
+  background-image: url("../assets/curso/dots_01.svg")
+  background-repeat: no-repeat
+  background-size: contain
+  @media (max-width: 1000px)
+    display: none
+
+///// Custom bg
+.bg--blue
+  padding: 0.1rem 0.12rem
+  background-color: #DDEDF8
+
+.bg--paleBlue
+  position: relative
+  padding: 2rem
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 100%        
+    background-color: #EFF6FC
+
+.bg--HrGradient_gris
+  position: relative   
+  & > *
+    position: relative
+    z-index: 2
+  &::before
+    content: ''
+    position: absolute    
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 100%        
+    background: linear-gradient(90deg, rgba(246,246,246,1) 30%, rgba(255,255,255,1) 80%)
+
+.bg--gradientBlue
+  position: relative   
+  & > *
+    position: relative
+    z-index: 2
+  &::before
+    content: ''
+    position: absolute    
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 100%        
+    background: linear-gradient(0deg, rgba(215,236,252,1) 0%, rgba(239,246,252,1) 100%)
+
+.bg--gradientBlue_02
+  position: relative   
+  & > *
+    position: relative
+    z-index: 2
+  &::before
+    content: ''
+    position: absolute    
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 100%        
+    background: linear-gradient(0deg, rgba(235,246,254,1) 37%, rgba(255,255,255,1) 100%)
+
+//////
+
+.bg--purpuraHalf
+  position: relative  
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    bottom: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 50%       
+    background-color: #E0D5F1  
+
+.bg--gradient_blue_02
+  position: relative   
+  & > *
+    position: relative
+    z-index: 2
+  &::before
+    content: ''
+    position: absolute    
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 100%        
+    background: linear-gradient(0deg, rgba(126,83,197,1) 0%, rgba(8,3,131,1) 50%)
+
+
+.bg--img_01,.bg--img_02,.bg--img_03, 
+.bg--img_04,.bg--img_05,.bg--img_06,
+.bg--img_07
+  position: relative   
+  & > *
+    position: relative
+    z-index: 2
+  &::before
+    content: ''
+    position: absolute    
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 100%    
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: top left
+
+.bg--img_01  
+  &::before         
+    background-image: url("../assets/curso/bg_img_01.svg")
+.bg--img_02  
+  &::before           
+    background-image: url("../assets/curso/bg_img_02.svg") 
+.bg--img_03  
+  &::before     
+    background-image: url("../assets/curso/bg_img_03.svg")
+.bg--img_04  
+  &::before         
+    background-image: url("../assets/curso/bg_img_04.svg")
+.bg--img_05  
+  &::before        
+    background-image: url("../assets/curso/bg_img_05.svg")
+.bg--img_06  
+  &::before        
+    background-image: url("../assets/curso/bg_img_06.svg")
+.bg--img_07 
+  &::before        
+    background-image: url("../assets/curso/bg_img_07.svg")
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: bottom left
+
+.bg--info
+  position: relative   
+  & > *
+    position: relative
+    z-index: 2
+  &::before
+    content: ''
+    position: absolute    
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 100%        
+    background-image: url("../assets/curso/bg_info.png")
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: top left
+      
+
+///// Custom Table
+.cst--table_01
+  table
+    thead
+      border-color: #7F4FC7
+      background-color: #7F4FC7 
+      th
+        color: white !important
+        font-size: 1em
+
+.tabla-a table
+  min-width: 1300px
+
+
+.cell_gray
+  background-color: #f3f3f3
+
+///////////// CUSTOM LINEA DE TIEMPO D
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #EFD198 !important      
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #F6F6F6
+
+/// non selected
+.linea-tiempo-d__item.row
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #E6E6E6
+    .linea-tiempo-d__item__dots:after
+      border-left: 4px dotted #adb8c2 !important
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #E6E6E6
+
+///// Custom acordeon A tipo A
+
+.tarjeta.tarjeta--gris
+  background-color: #DFEAF1
+
+.acordion__accion__btn--a
+  background-color: #133D60 !important
+  i
+    color: white
+
+///// SlyderF
+
+.dmf
+  padding: 0 !important
+  margin: 0 !important
+
+.ctn-img_01, .ctn-img_02, .ctn-img_03, .ctn-img_04, .ctn-img_05      
+  width: 326px
+  height: 300px
+  margin: 0 !important
+  padding: 0 !important  
+  background-size: cover
+  background-position: center center
+  border-top-left-radius: 15px 
+  border-top-right-radius: 15px
+
+////// tabas A
+
+.tabs-a__tab
+  background-color: #E0D5F1
+  &:hover
+    background-color: #7F4FC7
+    color: white
+    
+
+.tabs-a__tab__selected
+  background-color: #7F4FC7 !important
+  color: white !important
+  &::before
+    background-color: #7F4FC7
+
+.tarjeta.color-acento-botones--borde
+  background-color: #F4F1FA
+  border: none
+
+
+/// Slyder f
+
+.horizontal-scroll__wrapper
+  padding: 2rem 0.5rem 
+
+.horizontal-scroll
+  align-items: stretch !important
+    

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="602.638" height="418.755" viewBox="0 0 602.638 418.755">
+  <defs>
+    <filter id="Rectángulo_45262" x="225.414" y="330.79" width="377.224" height="87.966" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_156311" data-name="Grupo 156311" transform="translate(-1218.332 6343.388)">
+    <g id="Grupo_155295" data-name="Grupo 155295" transform="translate(1209.332 -6343.388)">
+      <g id="Grupo_152570" data-name="Grupo 152570" transform="translate(574.237 0)">
+        <g id="Grupo_152551" data-name="Grupo 152551" transform="translate(0 115) rotate(-90)">
+          <rect id="Rectángulo_45220" data-name="Rectángulo 45220" width="83.053" height="24.731" transform="translate(115 24.731) rotate(180)" fill="#e8e8e8"/>
+          <g id="Grupo_152556" data-name="Grupo 152556" transform="translate(0 13.7)">
+            <rect id="Rectángulo_45221" data-name="Rectángulo 45221" width="4.203" height="4.203" transform="translate(89.304 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45222" data-name="Rectángulo 45222" width="4.203" height="4.203" transform="translate(80.374 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45223" data-name="Rectángulo 45223" width="4.203" height="4.203" transform="translate(71.443 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45224" data-name="Rectángulo 45224" width="4.202" height="4.203" transform="translate(62.513 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45225" data-name="Rectángulo 45225" width="4.203" height="4.203" transform="translate(53.582 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45226" data-name="Rectángulo 45226" width="4.202" height="4.203" transform="translate(44.652 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45227" data-name="Rectángulo 45227" width="4.203" height="4.203" transform="translate(35.722 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45228" data-name="Rectángulo 45228" width="4.202" height="4.203" transform="translate(26.791 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45229" data-name="Rectángulo 45229" width="4.203" height="4.203" transform="translate(17.861 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45230" data-name="Rectángulo 45230" width="4.203" height="4.203" transform="translate(8.93 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45231" data-name="Rectángulo 45231" width="4.203" height="4.203" transform="translate(0 17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45232" data-name="Rectángulo 45232" width="4.203" height="4.203" transform="translate(89.304 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45233" data-name="Rectángulo 45233" width="4.203" height="4.203" transform="translate(80.374 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45234" data-name="Rectángulo 45234" width="4.203" height="4.203" transform="translate(71.443 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45235" data-name="Rectángulo 45235" width="4.202" height="4.203" transform="translate(62.513 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45236" data-name="Rectángulo 45236" width="4.203" height="4.203" transform="translate(53.582 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45237" data-name="Rectángulo 45237" width="4.202" height="4.203" transform="translate(44.652 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45238" data-name="Rectángulo 45238" width="4.203" height="4.203" transform="translate(35.722 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45239" data-name="Rectángulo 45239" width="4.202" height="4.203" transform="translate(26.791 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45240" data-name="Rectángulo 45240" width="4.203" height="4.203" transform="translate(17.861 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45241" data-name="Rectángulo 45241" width="4.203" height="4.203" transform="translate(8.93 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45242" data-name="Rectángulo 45242" width="4.203" height="4.203" transform="translate(0 8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45243" data-name="Rectángulo 45243" width="4.203" height="4.203" transform="translate(89.304)" fill="#1894f6"/>
+            <rect id="Rectángulo_45244" data-name="Rectángulo 45244" width="4.203" height="4.203" transform="translate(80.374)" fill="#1894f6"/>
+            <rect id="Rectángulo_45245" data-name="Rectángulo 45245" width="4.203" height="4.203" transform="translate(71.443)" fill="#1894f6"/>
+            <rect id="Rectángulo_45246" data-name="Rectángulo 45246" width="4.202" height="4.203" transform="translate(62.513)" fill="#1894f6"/>
+            <rect id="Rectángulo_45247" data-name="Rectángulo 45247" width="4.203" height="4.203" transform="translate(53.582)" fill="#1894f6"/>
+            <rect id="Rectángulo_45248" data-name="Rectángulo 45248" width="4.202" height="4.203" transform="translate(44.652)" fill="#1894f6"/>
+            <rect id="Rectángulo_45249" data-name="Rectángulo 45249" width="4.203" height="4.203" transform="translate(35.722)" fill="#1894f6"/>
+            <rect id="Rectángulo_45250" data-name="Rectángulo 45250" width="4.202" height="4.203" transform="translate(26.791)" fill="#1894f6"/>
+            <rect id="Rectángulo_45251" data-name="Rectángulo 45251" width="4.203" height="4.203" transform="translate(17.861)" fill="#1894f6"/>
+            <rect id="Rectángulo_45252" data-name="Rectángulo 45252" width="4.203" height="4.203" transform="translate(8.93)" fill="#1894f6"/>
+            <rect id="Rectángulo_45253" data-name="Rectángulo 45253" width="4.203" height="4.203" fill="#1894f6"/>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 9, 0)" filter="url(#Rectángulo_45262)">
+        <rect id="Rectángulo_45262-2" data-name="Rectángulo 45262" width="69.966" height="359.224" rx="13" transform="translate(593.64 336.79) rotate(90)" fill="#008cff"/>
+      </g>
+      <rect id="female-speaker-giving-presentation-in-hall-at-university-workshop-audience-or-conference-hall" width="527.323" height="361.745" rx="11" transform="translate(9 20.938)" fill="#fff"/>
+      <g id="Rectángulo_45261" data-name="Rectángulo 45261" transform="translate(21.71)" fill="none" stroke="#12263f" stroke-width="3">
+        <rect width="543.528" height="368.772" rx="12" stroke="none"/>
+        <rect x="1.5" y="1.5" width="540.528" height="365.772" rx="10.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_156246" data-name="Grupo 156246">
+      <g id="Rectángulo_47302" data-name="Rectángulo 47302" transform="translate(1297 -6277)" fill="#fff" stroke="#12263f" stroke-width="3">
+        <rect width="376" height="252" stroke="none"/>
+        <rect x="1.5" y="1.5" width="373" height="249" fill="none"/>
+      </g>
+      <path id="Trazado_198503" data-name="Trazado 198503" d="M4.1,10.758H.289V9.578H4.1ZM7.461,8.609H8.547a2.387,2.387,0,0,0,1.609-.539,1.8,1.8,0,0,0,.586-1.414,1.764,1.764,0,0,0-1.992-2,2.072,2.072,0,0,0-1.5.535A1.873,1.873,0,0,0,6.7,6.609H5.25a2.9,2.9,0,0,1,.988-2.246A3.6,3.6,0,0,1,8.75,3.469a3.558,3.558,0,0,1,2.523.852,3.076,3.076,0,0,1,.914,2.367,2.5,2.5,0,0,1-.48,1.438A2.9,2.9,0,0,1,10.4,9.164a2.8,2.8,0,0,1,1.449.984,2.734,2.734,0,0,1,.512,1.68,3.1,3.1,0,0,1-1,2.43,3.745,3.745,0,0,1-2.6.9,3.844,3.844,0,0,1-2.605-.867,2.877,2.877,0,0,1-1-2.289H6.6a1.859,1.859,0,0,0,.586,1.438,2.229,2.229,0,0,0,1.57.539,2.187,2.187,0,0,0,1.6-.547,2.108,2.108,0,0,0,.555-1.57,1.912,1.912,0,0,0-.609-1.523,2.655,2.655,0,0,0-1.758-.547H7.461ZM37.3,10.758H33.492V9.578H37.3ZM46.016,15H38.563V13.961L42.5,9.586a9.355,9.355,0,0,0,1.207-1.613,2.693,2.693,0,0,0,.332-1.285A2.041,2.041,0,0,0,43.5,5.227a1.885,1.885,0,0,0-1.437-.57,2.232,2.232,0,0,0-1.676.613,2.343,2.343,0,0,0-.6,1.707H38.344a3.355,3.355,0,0,1,1.012-2.539,3.751,3.751,0,0,1,2.707-.969A3.6,3.6,0,0,1,44.57,4.3a2.838,2.838,0,0,1,.922,2.215q0,1.68-2.141,4L40.3,13.82h5.711Zm24.492-4.242H66.7V9.578h3.813ZM76.516,15H75.063V5.367l-2.914,1.07V5.125L76.289,3.57h.227Zm31.172-4.852a6.61,6.61,0,0,1-.867,3.773,3.6,3.6,0,0,1-5.406.027,6.274,6.274,0,0,1-.906-3.605V8.414a6.463,6.463,0,0,1,.867-3.727,3.668,3.668,0,0,1,5.422-.043,6.237,6.237,0,0,1,.891,3.629Zm-1.445-1.977a5.3,5.3,0,0,0-.516-2.676,1.775,1.775,0,0,0-1.633-.84,1.751,1.751,0,0,0-1.617.836,5.171,5.171,0,0,0-.523,2.57v2.313a5.381,5.381,0,0,0,.535,2.723,1.771,1.771,0,0,0,1.621.879,1.747,1.747,0,0,0,1.59-.828,5.186,5.186,0,0,0,.543-2.609ZM134.094,15h-1.453V5.367l-2.914,1.07V5.125l4.141-1.555h.227Zm31.492,0h-7.453V13.961l3.938-4.375a9.355,9.355,0,0,0,1.207-1.613,2.692,2.692,0,0,0,.332-1.285,2.041,2.041,0,0,0-.539-1.461,1.885,1.885,0,0,0-1.437-.57,2.232,2.232,0,0,0-1.676.613,2.343,2.343,0,0,0-.6,1.707h-1.445a3.355,3.355,0,0,1,1.012-2.539,3.751,3.751,0,0,1,2.707-.969,3.6,3.6,0,0,1,2.508.832,2.838,2.838,0,0,1,.922,2.215q0,1.68-2.141,4l-3.047,3.3h5.711Zm23.438-6.391h1.086a2.387,2.387,0,0,0,1.609-.539,1.8,1.8,0,0,0,.586-1.414,1.764,1.764,0,0,0-1.992-2,2.072,2.072,0,0,0-1.5.535,1.873,1.873,0,0,0-.559,1.418h-1.445a2.9,2.9,0,0,1,.988-2.246,3.6,3.6,0,0,1,2.512-.895,3.558,3.558,0,0,1,2.523.852,3.076,3.076,0,0,1,.914,2.367,2.5,2.5,0,0,1-.48,1.438,2.9,2.9,0,0,1-1.309,1.039,2.8,2.8,0,0,1,1.449.984,2.734,2.734,0,0,1,.512,1.68,3.1,3.1,0,0,1-1,2.43,3.745,3.745,0,0,1-2.6.9,3.844,3.844,0,0,1-2.605-.867,2.877,2.877,0,0,1-1-2.289h1.453a1.859,1.859,0,0,0,.586,1.438,2.229,2.229,0,0,0,1.57.539,2.187,2.187,0,0,0,1.6-.547,2.108,2.108,0,0,0,.555-1.57,1.912,1.912,0,0,0-.609-1.523,2.655,2.655,0,0,0-1.758-.547h-1.086Z" transform="translate(1271 -6048) rotate(-90)" fill="#12263f"/>
+      <line id="Línea_2031" data-name="Línea 2031" y2="163" transform="translate(1485.5 -6234.5)" fill="none" stroke="#12263f" stroke-width="2" stroke-dasharray="6"/>
+      <g id="Rectángulo_47303" data-name="Rectángulo 47303" transform="translate(1411 -6183)" fill="#fff" stroke="#12263f" stroke-width="2">
+        <rect width="148" height="65" stroke="none"/>
+        <rect x="1" y="1" width="146" height="63" fill="none"/>
+      </g>
+      <line id="Línea_2032" data-name="Línea 2032" x2="148" transform="translate(1411.5 -6150.5)" fill="none" stroke="#12263f" stroke-width="4"/>
+      <line id="Línea_2033" data-name="Línea 2033" x2="56" transform="translate(1457.5 -6234.5)" fill="none" stroke="#12263f" stroke-width="1"/>
+      <line id="Línea_2034" data-name="Línea 2034" x2="56" transform="translate(1457.5 -6071.5)" fill="none" stroke="#12263f" stroke-width="1"/>
+      <line id="Línea_2035" data-name="Línea 2035" x2="7.5" transform="translate(1290 -6056.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_2036" data-name="Línea 2036" x2="7.5" transform="translate(1290 -6095.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_2037" data-name="Línea 2037" x2="7.5" transform="translate(1290 -6130.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_2038" data-name="Línea 2038" x2="7.5" transform="translate(1290 -6161.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_2039" data-name="Línea 2039" x2="7.5" transform="translate(1290 -6189.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_2040" data-name="Línea 2040" x2="7.5" transform="translate(1290 -6217.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <line id="Línea_2041" data-name="Línea 2041" x2="7.5" transform="translate(1290 -6245.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <g id="Elipse_5861" data-name="Elipse 5861" transform="translate(1480 -6255)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+      <g id="Elipse_5862" data-name="Elipse 5862" transform="translate(1480 -6062)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

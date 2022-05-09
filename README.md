@@ -1,8 +1,8 @@
-# **sena-base-2021 v5.1.0**
+# **CF7-Talento humano mediado por herramientas TIC**
 
-## **https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/**
+## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF7_TALENTO_HUMANO_MEDIADO_POR_HERRAMIENTAS_TIC/](https://ecored-sena.github.io/CF7_TALENTO_HUMANO_MEDIADO_POR_HERRAMIENTAS_TIC/)
 
 #
 

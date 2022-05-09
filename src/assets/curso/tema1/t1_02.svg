@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108" height="108" viewBox="0 0 108 108">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_46983" data-name="Rectángulo 46983" width="71.849" height="50.562" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_155829" data-name="Grupo 155829" transform="translate(-746 -796)">
+    <g id="Grupo_155233" data-name="Grupo 155233" transform="translate(745.781 796)">
+      <circle id="Elipse_5738" data-name="Elipse 5738" cx="54" cy="54" r="54" transform="translate(0.219)" fill="#baa1e1"/>
+    </g>
+    <g id="Grupo_155826" data-name="Grupo 155826" transform="translate(764 825.001)">
+      <rect id="Rectángulo_46974" data-name="Rectángulo 46974" width="71.8" height="8.318" transform="translate(0 -0.001)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <g id="Grupo_155825" data-name="Grupo 155825" transform="translate(0 -0.001)">
+        <g id="Grupo_155824" data-name="Grupo 155824" clip-path="url(#clip-path)">
+          <path id="Rectángulo_46975" data-name="Rectángulo 46975" d="M-2-2H69.766V7.628H-2ZM68.456-.69H-.69V6.318H68.456Z" transform="translate(2.083 9.662)" fill="#fff"/>
+          <path id="Rectángulo_46976" data-name="Rectángulo 46976" d="M-2-2H69.766V7.628H-2ZM68.456-.69H-.69V6.318H68.456Z" transform="translate(2.083 17.98)" fill="#fff"/>
+          <path id="Rectángulo_46977" data-name="Rectángulo 46977" d="M-2-2H69.766V7.628H-2ZM68.456-.69H-.69V6.318H68.456Z" transform="translate(2.083 26.298)" fill="#fff"/>
+          <path id="Rectángulo_46978" data-name="Rectángulo 46978" d="M-2-2H69.766V7.628H-2ZM68.456-.69H-.69V6.318H68.456Z" transform="translate(2.083 34.616)" fill="#fff"/>
+          <path id="Rectángulo_46979" data-name="Rectángulo 46979" d="M-2-2H69.766V7.628H-2ZM68.456-.69H-.69V6.318H68.456Z" transform="translate(2.083 42.934)" fill="#fff"/>
+          <path id="Rectángulo_46980" data-name="Rectángulo 46980" d="M-2-2H19.915V48.081H-2ZM18.6-.69H-.69V46.771H18.6Z" transform="translate(2.083 2.48)" fill="#fff"/>
+          <path id="Rectángulo_46981" data-name="Rectángulo 46981" d="M-2-2H16.179V48.081H-2ZM14.869-.69H-.69V46.771H14.869Z" transform="translate(22.687 2.48)" fill="#fff"/>
+          <path id="Rectángulo_46982" data-name="Rectángulo 46982" d="M-2-2H18.275V48.081H-2ZM16.965-.69H-.69V46.771H16.965Z" transform="translate(39.557 2.48)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
