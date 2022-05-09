@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/CF7_TALENTO_HUMANO_MEDIADO_POR_HERRAMIENTAS_TIC/](https://ecored-sena.github.io/CF7_TALENTO_HUMANO_MEDIADO_POR_HERRAMIENTAS_TIC/)
+[https://ecored-sena.github.io/CF4_TALENTO_HUMANO_MEDIADO_POR_HERRAMIENTAS_TIC/](https://ecored-sena.github.io/CF4_TALENTO_HUMANO_MEDIADO_POR_HERRAMIENTAS_TIC/)
 
 #
 
