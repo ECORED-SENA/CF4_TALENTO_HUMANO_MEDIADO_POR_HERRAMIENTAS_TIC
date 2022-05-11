@@ -109,7 +109,7 @@
         .row.justify-content-center
           .col-lg.mb-4.mb-lg-0
             h4.txt--purpura  APA
-            p Desarrollado por la American Psychological Association, este estilo se ha convertido en el formato de referencia para las ciencias sociales: psicología, educación, economía, derecho, etc. tipo de recursos:            
+            p Desarrollado por la <i>American Psychological Association</i>, este estilo se ha convertido en el formato de referencia para las ciencias sociales: psicología, educación, economía, derecho, etc. tipo de recursos:            
             ul.fa-ul
               li.mb-2
                 i.fa-li.far.fa-dot-circle.clr--purpura
@@ -126,7 +126,7 @@
         .row.justify-content-center
           .col-lg.mb-4.mb-lg-0
             h4.txt--purpura  MLA
-            p Estilo oficial de la Modern Language Association, se emplea fundamentalmente en lingüística y otras disciplinas humanísticas. 
+            p Estilo oficial de la <i>Modern Language Association</i>, se emplea fundamentalmente en lingüística y otras disciplinas humanísticas. 
             p Como el estilo APA, además de un sistema para elaborar citas y referencias, es un manual que formaliza los aspectos básicos de la escritura de un trabajo académico (tipografía, tamaño de letra, calidad del papel, formato de párrafos, enlaces, puntuación, etc.).                                
 
           .col-auto
@@ -217,35 +217,36 @@
         p Ampliar el vocabulario se consigue a través de la lectura, ya que se logra alcanzar una buena memoria gráfica, dado que el ser humano aprende más de manera visual. Por esto, la invitación es a comenzar a hacer un buen uso del lenguaje. La utilización de normas y reglas gramaticales facilitan que la comunicación sea apropiada, lo cual es primordial en el desarrollo de cualquier comunicación y, mucho más, en la comunicación de carácter científico. Por ello, se orientan las siguientes recomendaciones, las cuales le ayudarán a mejorar la redacción y la ortografía.
 
     .bg--paleBlue
+      h4.text-center.mb-5 Recomendaciones para mejorar la redacción y la ortografía
       .row.justify-content-center.align-items-center
         .col-lg-7
-          SlyderF.mb-5(columnas="col-lg-6")
-            .crd.crd--white
+          SlyderF.mb-5.customPadding(columnas="col-lg-6")
+            .crd.crd--white.mx-2
               figure.mb-4
                 img(src="@/assets/curso/tema4/t4_13.svg", alt="alt").img100.m-auto               
               p.mb-0.text-center Delimite párrafos extensos y segméntelos, de ser necesario.<br>incómodos.
 
-            .crd.crd--white
+            .crd.crd--white.mx-2
               figure.mb-4
                 img(src="@/assets/curso/tema4/t4_14.svg", alt="alt").img100.m-auto               
               p.mb-0.text-center Lea los textos que escribe al menos una vez más, atendiendo la puntuación de cada uno de los párrafos.
 
-            .crd.crd--white
+            .crd.crd--white.mx-2
               figure.mb-4
                 img(src="@/assets/curso/tema4/t4_15.svg", alt="alt").img100.m-auto               
               p.mb-0.text-center Utilice el diccionario físico o en línea.
 
-            .crd.crd--white
+            .crd.crd--white.mx-2
               figure.mb-4
                 img(src="@/assets/curso/tema4/t4_16.svg", alt="alt").img100.m-auto               
-              p.mb-0.text-center Consulte las dudas que se puedan ir generando. Hay herramientas como la plataforma de la Real Academia Española y fundéu, en las que están actualizadas las últimas normas del castellano y ayudan a resolver las dudas.
+              p.mb-0.text-center Consulte las dudas que se puedan ir generando. Hay herramientas como la plataforma de la #[a(href="https://www.rae.es/" target="_blank") Real Academia Española] y #[a(href="https://www.fundeu.es/" target="_blank") fundéu], en las que están actualizadas las últimas normas del castellano y ayudan a resolver las dudas.
 
-            .crd.crd--white
+            .crd.crd--white.mx-2
               figure.mb-4
                 img(src="@/assets/curso/tema4/t4_17.svg", alt="alt").img100.m-auto               
               p.mb-0.text-center Practique en su vida cotidiana la corrección de la escritura y la puntuación.
 
-            .crd.crd--white
+            .crd.crd--white.mx-2
               figure.mb-4
                 img(src="@/assets/curso/tema4/t4_18.svg", alt="alt").img100.m-auto               
               p.mb-0.text-center Genere hábitos de lectura, con el objetivo de mejorar su memoria gráfica.

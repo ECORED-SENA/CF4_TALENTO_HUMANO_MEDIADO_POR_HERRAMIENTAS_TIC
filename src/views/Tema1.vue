@@ -11,16 +11,19 @@
     .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
         p El tratamiento y la organización son vitales para el análisis de datos y el abordaje de los objetivos, las conclusiones y recomendaciones de la tesis propuesta, de esta forma, la presentación integral de la información conlleva diferentes miradas de los datos obtenidos. Una característica relevante es saber presentar la información; en la actualidad, el apoyo de herramientas informáticas permite integrar los datos de formas amplias, pero: 
-        .row
+        .row.mb-4
           .col-auto.d-none.d-lg-flex
             figure
               img(src="@/assets/curso/square_01.svg", alt="alt").img85
           .col
             .crd.crd--cstm_01 
               p ¿Cuál es el modo correcto de organizar la información?
+        p Reconocer la importancia de la organización de los datos en el análisis descriptivo de la información es fundamental, por lo cual, la estadística ofrece técnicas y métodos que permiten organizar un sinnúmero de respuestas para la interpretación individual que le pueda dar el investigador.
       .col-lg-4
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema1/t1_01.png", alt="alt").img500.m-auto
+
+    p 
 
     .bg--paleBlue.mb-5
       .row.justify-content-center.align-items-center

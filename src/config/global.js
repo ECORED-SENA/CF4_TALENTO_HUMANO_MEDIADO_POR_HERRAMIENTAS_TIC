@@ -104,7 +104,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -164,7 +164,7 @@ export default {
     {
       referencia:
         'Libélula-ciencia, ingeniería y cultura. (2021). <i>Herramientas para clasificar los datos</i> [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=cyXenZEbGz4 ',
+      link: 'https://www.youtube.com/watch?v=_LzW2Y2xPTw ',
     },
     {
       referencia:
@@ -219,12 +219,12 @@ export default {
         'indican en torno a qué valor o criterio central se distribuyen los datos obtenidos, para lo cual se establecen la media aritmética, mediana y moda.',
     },
     {
-      termino: 'Parámetros de dispersión:',
+      termino: 'Parámetros de dispersión',
       significado:
         'es la representación de los datos que se alejan de la parte central de los valores de distribución generales.',
     },
     {
-      termino: 'Efectividad ',
+      termino: 'Efectividad',
       significado:
         'mide el impacto del indicador frente al cumplimiento del objetivo o también se puede ver como la combinación entre la eficiencia y la eficacia.',
     },

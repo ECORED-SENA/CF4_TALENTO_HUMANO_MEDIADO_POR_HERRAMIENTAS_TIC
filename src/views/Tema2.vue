@@ -35,7 +35,7 @@
               img(src="@/assets/curso/tema2/t2_02.svg", alt="alt").img200.m-auto
             h4 Media aritmética
             p La media es la suma de todos los datos dividida por el número de datos.
-            p.mb-0 #[strong Ejemplo:] Para los datos 1, 2, y 3, 3 es la cantidad de datos, entonces la media es 6/3=2
+            p.mb-0 #[strong Ejemplo:] para los datos 1, 2, y 3, 3 es la cantidad de datos, entonces la media es 6/3=2
 
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--hover_02
@@ -51,7 +51,7 @@
               img(src="@/assets/curso/tema2/t2_04.svg", alt="alt").img200.m-auto
             h4 Moda
             p Es el valor de la variable con mayor frecuencia absoluta.
-            p.mb-0 #[strong Ejemplo:] En los datos 3, 2, 3, 4, 5, 3, 7, 8, 7 y 10, los números 2, 4, 5, 8 y 10 aparecen una vez cada uno; el número 3 aparece en tres ocasiones y el número 7 aparece en dos oportunidades. Así, entonces, la moda estadística es el número 3.
+            p.mb-0 #[strong Ejemplo:] en los datos 3, 2, 3, 4, 5, 3, 7, 8, 7 y 10, los números 2, 4, 5, 8 y 10 aparecen una vez cada uno; el número 3 aparece en tres ocasiones y el número 7 aparece en dos oportunidades. Así, entonces, la moda estadística es el número 3.
 
       h3.cstmH3--blue II. Parámetros de posición
 

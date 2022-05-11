@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 3
-      h1 Clasificación de datos
+      h1 Tabulación, gráficas y análisis de datos
 
     .row.justify-content-center.mb-5 
       .col-lg-8.mb-4.mb-lg-0
@@ -69,7 +69,7 @@
             img(src="@/assets/curso/tema3/t3_05.svg", alt="alt")
 
         .col-lg-6
-          a.anexo.mb-4(:href="obtenerLink('/downloads/Caracteristicas_tabulacion_datos_bajo_esquema_frecuencias.pdf')" target="_blank")
+          a.anexo.mb-4(:href="obtenerLink('/downloads/Caracteristicas_tabulacion.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
@@ -90,13 +90,13 @@
       SlyderB(:datos="datosSlyder")
 
     .avatarCrd.crd--amarillo
-      p.mb-0 Para comprender de manera integral los tipos de gráficos más utilizados, observe el video Tipos de gráficos estadísticos, el cual se encuentra en el material complementario.       
+      p.mb-0 Para comprender de manera integral los tipos de gráficos más utilizados, observe el video #[strong Tipos de gráficos estadísticos], el cual se encuentra en el material complementario.       
       .avatarCrd--icon
 
     separador
 
-    #t_3_3.titulo-segundo.color-acento-contenido
-      h2 3.3 Análisis de datos
+    #t_3_4.titulo-segundo.color-acento-contenido
+      h2 3.4 Análisis de datos
 
     .row.justify-content-center.mb-5
       .col-auto.d-none.d-lg-flex
