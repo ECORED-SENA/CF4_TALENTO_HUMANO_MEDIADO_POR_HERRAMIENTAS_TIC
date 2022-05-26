@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94.005" height="79.582" viewBox="0 0 94.005 79.582">
+  <g id="Grupo_156303" data-name="Grupo 156303" transform="translate(4464.005 10111.922)">
+    <g id="Grupo_155819" data-name="Grupo 155819" transform="translate(-4464 -10111.922)">
+      <g id="Grupo_154374" data-name="Grupo 154374" transform="translate(0 0)">
+        <line id="Línea_1807" data-name="Línea 1807" x2="77.131" y2="0.771" transform="translate(0 78.311)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="6"/>
+        <g id="Grupo_153193" data-name="Grupo 153193" transform="translate(22.23 11.293) rotate(180)">
+          <rect id="Rectángulo_45221" data-name="Rectángulo 45221" width="2.151" height="2.151" transform="translate(9.142 9.142)" fill="#3cffe9"/>
+          <rect id="Rectángulo_45222" data-name="Rectángulo 45222" width="2.151" height="2.151" transform="translate(4.571 9.142)" fill="#3cffe9"/>
+          <rect id="Rectángulo_45223" data-name="Rectángulo 45223" width="2.151" height="2.151" transform="translate(0 9.142)" fill="#3cffe9"/>
+          <rect id="Rectángulo_45232" data-name="Rectángulo 45232" width="2.151" height="2.151" transform="translate(9.142 4.571)" fill="#3cffe9"/>
+          <rect id="Rectángulo_45233" data-name="Rectángulo 45233" width="2.151" height="2.151" transform="translate(4.571 4.571)" fill="#3cffe9"/>
+          <rect id="Rectángulo_45234" data-name="Rectángulo 45234" width="2.151" height="2.151" transform="translate(0 4.571)" fill="#3cffe9"/>
+          <rect id="Rectángulo_45243" data-name="Rectángulo 45243" width="2.151" height="2.151" transform="translate(9.142)" fill="#3cffe9"/>
+          <rect id="Rectángulo_45244" data-name="Rectángulo 45244" width="2.151" height="2.151" transform="translate(4.571)" fill="#3cffe9"/>
+          <rect id="Rectángulo_45245" data-name="Rectángulo 45245" width="2.151" height="2.151" fill="#3cffe9"/>
+        </g>
+      </g>
+      <g id="Grupo_156195" data-name="Grupo 156195" transform="translate(4350 10072.792)">
+        <rect id="Rectángulo_47283" data-name="Rectángulo 47283" width="50" height="27" rx="3" transform="translate(-4306 -10060)" fill="#3cffe9"/>
+        <path id="Trazado_198095" data-name="Trazado 198095" d="M50.141,7.713A30.1,30.1,0,0,0,7.632,9.98,29.241,29.241,0,0,0,0,30.139,29.926,29.926,0,0,0,11.855,54.062c-.056.093,4.029,2.614,4.029,2.614A30.1,30.1,0,0,0,50.141,7.713m5.028,19.98H32.35l-.016-22.7a24.921,24.921,0,0,1,22.835,22.7M17.45,52.17A25.5,25.5,0,0,1,5.526,23.232C8.364,13.134,18.519,4.717,27.677,4.979l0,1.552c0,7.45.03,14.9-.024,22.346a4.962,4.962,0,0,0,1.361,3.615C34.35,38.418,39.624,44.4,44.923,50.362A24.864,24.864,0,0,1,17.45,52.17m31.025-4.76L35.242,32.525h19.8c.4,3.808-2.608,10.743-6.567,14.885" transform="translate(-4342 -10060.203)" fill="#fff"/>
+        <path id="Trazado_198381" data-name="Trazado 198381" d="M-6.617-9.724-5.4-19.906H6.234v3.555H-1.654l-.451,3.982a5.434,5.434,0,0,1,1.292-.508A5.9,5.9,0,0,1,.752-13.1a5.84,5.84,0,0,1,4.56,1.757A7.077,7.077,0,0,1,6.9-6.412,7.064,7.064,0,0,1,6.05-2.946,5.873,5.873,0,0,1,3.65-.561,7.575,7.575,0,0,1,0,.273,8.151,8.151,0,0,1-3.514-.5a6.3,6.3,0,0,1-2.57-2.117A5.145,5.145,0,0,1-7-5.655h4.621a2.614,2.614,0,0,0,.7,1.733,2.213,2.213,0,0,0,1.654.641Q2.3-3.281,2.3-6.72,2.3-9.9-.547-9.9A2.838,2.838,0,0,0-2.953-8.862Z" transform="translate(-4281 -10037)" fill="#2194e5"/>
+        <line id="Línea_2019" data-name="Línea 2019" y1="25" x2="12" transform="translate(-4324.245 -10030.5)" fill="none" stroke="#fff" stroke-width="5"/>
+        <line id="Línea_2020" data-name="Línea 2020" x2="28" y2="2" transform="translate(-4340.245 -10032.5)" fill="none" stroke="#fff" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>
