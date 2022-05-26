@@ -187,8 +187,7 @@ export default {
       link: 'https://unisabaneta.edu.co/pdf/cartillas/derechos_autor.pdf ',
     },
     {
-      referencia:
-        'Significados.com. (s. f.). <i>Tipos de investigación.</i> Recuperado de ',
+      referencia: 'Significados.com. (s. f.). <i>Tipos de investigación.</i>',
       link: 'https://www.significados.com/tipos-de-investigacion/',
     },
     {
